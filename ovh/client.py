@@ -73,7 +73,7 @@ from .exceptions import (
 
 #: Mapping between OVH API region names and corresponding endpoints
 ENDPOINTS = {
-    'ovh-eu': 'https://eu.api.ovh.com/1.0',
+    'ovh-eu': 'https://www.ovh.com/engine/apiv6',
     'ovh-us': 'https://api.us.ovhcloud.com/1.0',
     'ovh-ca': 'https://ca.api.ovh.com/1.0',
     'kimsufi-eu': 'https://eu.api.kimsufi.com/1.0',
